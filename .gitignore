@@ -1,0 +1,4 @@
+rev-manifest.json
+.idea
+dist
+node_modules
